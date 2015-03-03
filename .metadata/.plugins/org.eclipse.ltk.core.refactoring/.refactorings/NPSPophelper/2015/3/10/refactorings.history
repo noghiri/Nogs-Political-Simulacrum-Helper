@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;NPSPophelper/NPSPophelperCore&apos; to &apos;NPSPophelperCore.py&apos;" description="Rename resource &apos;NPSPophelperCore&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="NPSPophelperCore" name="NPSPophelperCore.py" stamp="1425358929273" updateReferences="true"/>
+</session>

@@ -1,0 +1,13 @@
+"""
+Nog's Population Calculator v.1.0
+Population Calculating Module
+
+Arguments:
+Current Population
+Population Growth Rate
+"""
+
+def NPSPopcalc(popCurrent, growthRate):
+    growthMultiplier = growthRate * 0.01 + 1
+    popNew = popCurrent * growthMultiplier
+    return popNew

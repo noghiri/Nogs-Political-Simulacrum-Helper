@@ -1,0 +1,19 @@
+"""
+Nog's Population Calculator v.1.0
+Population Calculating Module
+
+Nog's Political Simulacrum Helper by noghiri (Kenneth Sison) is
+licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+To view a copy of this license, visit 
+http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Arguments:
+Current Population
+Population Growth Rate
+"""
+
+def NPSPopcalc(popCurrent, growthRate):
+    growthMultiplier = growthRate * 0.01 + 1
+    popNew = popCurrent * growthMultiplier
+    return popNew

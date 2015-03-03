@@ -1,0 +1,8 @@
+"""
+Nog's Political Simulacrum Helper v1.0
+
+
+"""
+import NPSPopcalc.NPSPopcalc as PopCalc
+import PyGame
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
